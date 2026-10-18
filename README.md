@@ -4,7 +4,9 @@
 
 This project analyzes customer churn in the banking industry using Power BI. The objective is to identify customer segments with higher churn rates and provide actionable business insights through an interactive dashboard.
 
----
+
+
+![Bank Customer Churn Analysis](Snapshot_of_Dashboard.png)
 
 ## 🎯 Business Problem
 
